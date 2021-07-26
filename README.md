@@ -20,3 +20,5 @@ TECHNOLOGIES USED
 
 
 ---------------------------- 
+
+![alt text](C:\Users\USER\Documents\GitHub\COVID19-Updating-System\images\images\background-img copy.jpg)
