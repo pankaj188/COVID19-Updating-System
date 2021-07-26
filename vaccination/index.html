@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0"/>
+
+    <title>Register Information Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <img src="images/vaccine.jpg" width="800" height="400" align="left" alt="vaccine">
+    <img src="images/corona-vaccine.jpg" width="700" height="400" align="right" alt="corona-vaccine">
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <div class= "main">
+    <div class= "register">
+    <h1>Vaccine Registration Form</h1>
+    <form action=" "  method="POST">
+          <p><b> Name:</b></p>
+          <label>Firstname: <input type="text" name="firstname"></label>
+          <label>Lastname: <input type="text" name="lastname"></label><br/>
+          <p><b>Date of Birth:</b></p>
+          <label for= "start"> Enter date </label>
+          <input type="date" id="myDate" name="bday" min="1920-01-01" max="2030-12-01"><br/><br/>
+          <label><b> Aadhar Card No:</b> <input type="text" name="aadharno"</label><br><br>
+        <fieldset>
+            <legend><b>Gender</b></legend>
+            <label><input type="radio" name="gender" value="male"> Male</label>
+            <label><input type="radio" name="gender" value="female"> Female</label>
+        </fieldset><br>
+        <fieldset>
+            <legend><b>Please check all symptoms that apply:</b></legend>
+            <label><input type="checkbox" name="symptoms[]" 
+                value="Loss of taste/smell"> Loss of taste/smell</label>
+            <label><input type="checkbox" name="symptoms[]" 
+                value="Difficulty in breathing">Difficulty in breathing</label>
+            <label><input type="checkbox" name="symptoms[]" 
+                value="Cough"> Cough</label>
+            <label><input type="checkbox" name="symptoms[]" 
+                value="Body aches"> Body aches</label>
+            <label><input type="checkbox" name="symptoms[]" 
+                value="Sore throat"> Sore throat</label>
+        </fieldset><br>
+        <fieldset>
+                <label for="Age Group"><b>Age Group:</b></label>
+              <select name="Age" >
+                <option value="18 Above">18+</option>
+                <option value="45 Above">45+</option>
+              </select>
+        </fieldset>
+        <fieldset>
+                <legend><b>Contact Details and Address</b></legend>
+                <label>Email Address: <input type="email" name="email"></label>
+                <label>Phone Number: <input type="text" name="mobile"></label><br/><br/>
+                <label for="address">Address:</label>
+                <textarea rows="3" cols="70" name="address" id="address"></textarea>
+        </fieldset>
+        <br/><br/><br/><br/>
+        <input type="submit" style="font-weight:bold" value="Submit">
+        <input type="reset" style="font-weight:bold" value="Reset">
+    </form>
+</div>
+</div>
+</body>
+</html>
