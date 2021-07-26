@@ -17,4 +17,4 @@ TECHNOLOGIES USED
 
 ---------------------------- 
 
-![alt text](background-img.jpg)
+![alt text](https://images.unsplash.com/photo-1583324113626-70df0f4deaab?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGNvdmlkfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80)
