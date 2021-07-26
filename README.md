@@ -12,7 +12,7 @@ don’t need to check website of COVID-19 time to time .
 
 TECHNOLOGIES USED
 ----------------------------
- Implemented using  
+ **Implemented using  **
 
 - HTML, CSS, JavaScript
 - PHP as server language
