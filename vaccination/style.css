@@ -1,0 +1,18 @@
+body {
+    background: url("images/back.jpg") ;
+    background-size: 100%;
+    background-position: 5px 55px;
+}
+h1{
+    text-align: center;
+}
+div.main{
+    width: 800px;
+    margin: 100px auto 0px auto
+}
+div.register{
+    background-color: rgba(44, 179, 89, 0.3);
+    border-radius: 30px;
+    border: 1px, solid, rgba(20, 1, 1, 0.5);
+    background-position: 0px 100px;
+}
