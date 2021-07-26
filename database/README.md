@@ -20,3 +20,5 @@ TECHNOLOGIES USED
 
 
 ---------------------------- 
+
+![alt text](about.jpg)
