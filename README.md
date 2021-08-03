@@ -17,4 +17,9 @@ TECHNOLOGIES USED
 
 ---------------------------- 
 
-![alt text](./img/corona-1.png)
+![image](https://user-images.githubusercontent.com/67761234/128074041-487efbe8-ae18-410a-a9fd-dc08047f0b09.png)
+![image](https://user-images.githubusercontent.com/67761234/128074156-cd1e947e-79e0-4421-8ff8-86937657f54b.png)
+![image](https://user-images.githubusercontent.com/67761234/128074334-c8e18833-1745-4a12-9437-0b9e3fa56047.png)
+![image](https://user-images.githubusercontent.com/67761234/128074387-bcffcd31-4aff-4b14-b499-b889fdd43e6e.png)
+![image](https://user-images.githubusercontent.com/67761234/128074521-9bb70c03-d8b4-4266-8999-b3699386850b.png)
+
